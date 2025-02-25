@@ -49,14 +49,6 @@ To run the project, follow these steps:
     - When the application is running, user data will be saved to `userDatabase.ser` using `saveUsersToFile()`.
     - `loadUsersFromFile()` can retrieve saved data and reload users into the application.
 
-## Who Submitted What?
-### Phase 1:
-- Haiyan Xuan - Submitted Vocareum workspace.
-### Phase 2:
-- Haiyan Xuan - Submitted Vocareum workspace.
-### Phase 3:
-- Rohan Uddaraju - Submitted Vocareum workspace, project report, project presentation
-
 ## Project Structure
 These are the main classes and interfaces of the program:
 
